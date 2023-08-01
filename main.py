@@ -16,7 +16,7 @@ session = aiohttp.ClientSession()
 
 token = "Token bot"
 antinuke = "Id Server Supaya Tidak Ke Raid"
-logs_channel = "Logs Channel"
+logs_channel = Logs Channel ID
 
 @bot.event
 async def on_guild_join(guild):
