@@ -18,15 +18,6 @@ token = "Token bot"
 antinuke = "Id Server Supaya Tidak Ke Raid"
 logs_channel = "Logs Channel"
 
-
-def check_if_user_has_premium(ctx):
-    with open("guild.json") as f:
-        guild = json.load(f)
-        if guild in guild.id:
-            return False
-
-    return True  
-
 @bot.event
 async def on_guild_join(guild):
     if autonuke_enabled:
