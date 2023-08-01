@@ -3,12 +3,18 @@ Code by StevenAOS
 Installation
 Linux:
 ```npm install python3```
+
 ```npm install pip```
+
 ```pip install discord```
+
 ```npm install git```
+
 ``` git clone https://github.com/stevenaos/Rbot-Autonuke/tree/main```
+
 ``` cd AutoNuke```
-``` python3 main.py``` (CREO QUE ERA HACI XD)
+
+``` python3 main.py``` (I THINK IT WAS LIKE THAT XD)
 
 Replit: 
 ```
