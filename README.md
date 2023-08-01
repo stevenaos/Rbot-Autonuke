@@ -19,4 +19,5 @@ Linux:
 
 Replit: 
 ```
-Just copy the main.py file and the **.json** file, create a repository on Replit (choose Python language), paste the code, and run it```
+Just copy the main.py file and the **.json** file, create a repository on Replit (choose Python language), paste the code, and run it
+```
